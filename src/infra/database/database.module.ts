@@ -29,7 +29,6 @@ import { PrismaStudentsRepository } from "./prisma/repositories/prisma-students-
   ],
   exports: [
     PrismaService,
-    PrismaService,
     QuestionsRepository,
     StudentsRepository,
     PrismaQuestionAttachmentsRepository,
